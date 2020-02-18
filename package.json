@@ -1,0 +1,21 @@
+{
+    "name": "kristelvdakker-pastel",
+    "displayName": "Kristelvdakker Pastel Theme",
+    "description": "A dark theme with pastel colors",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.42.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Kristelvdakker Pastel Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Kristelvdakker Pastel Theme-color-theme.json"
+            }
+        ]
+    }
+}
