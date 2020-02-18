@@ -255,10 +255,22 @@
         "source.scss support.type.property-name",
         "source.less support.type.property-name",
         "source.stylus support.type.property-name",
-        "source.postcss support.type.property-name"
+        "source.postcss support.type.property-name",
+        "source.css variable.scss"
       ],
       "settings": {
         "foreground": "#66D9EF"
+      }
+    },
+    {
+      "name": "CSS Attributes",
+      "scope": [
+        "source.css entity.other.attribute-name",
+        "source.css entity.other.attribute-name.pseudo-class.css punctuation.definition.entity.css",
+        "source.css entity.other.attribute-name.pseudo-element.css punctuation.definition.entity.css"
+      ],
+      "settings": {
+        "foreground": "#E6DB74"
       }
     },
     {
@@ -283,10 +295,12 @@
     {
       "name": "CSS Classes",
       "scope": [
-        "entity.other.attribute-name.class"
+        "source.css entity.other.attribute-name.class",
+        "source.css punctuation.definition.entity.css",
+        "source.css meta.attribute-selector.scss"
       ],
       "settings": {
-        "foreground": "#FFCB6B"
+        "foreground": "#A5DA48"
       }
     },
     {
