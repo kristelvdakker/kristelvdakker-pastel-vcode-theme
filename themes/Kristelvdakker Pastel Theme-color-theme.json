@@ -666,6 +666,36 @@
       "settings": {
         "foreground": "#EEFFFF"
       }
+    },
+    {
+      "name": "Handlebars - HTML",
+      "scope": [
+        "text.html.handlebars entity.name.tag.html",
+        "text.html.handlebars punctuation.definition.tag.html"
+      ],
+      "settings": {
+        "foreground": "#FE357D"
+      }
+    },
+    {
+      "name": "Handlebars - Tags",
+      "scope": [
+        "text.html.handlebars meta.tag.any.html"
+      ],
+      "settings": {
+        "foreground": "#E6DB74"
+      }
+    },
+    {
+      "name": "Handlebars - Functions",
+      "scope": [
+        "text.html.handlebars meta.function.inline.other.handlebars",
+        "text.html.handlebars support.constant.handlebars",
+        "text.html.handlebars variable.parameter.handlebars"
+      ],
+      "settings": {
+        "foreground": "#F8F8F2"
+      }
     }
   ]
 }
