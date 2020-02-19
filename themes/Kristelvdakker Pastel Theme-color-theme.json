@@ -20,15 +20,6 @@
       }
     },
     {
-      "name": "Unused",
-      "scope": [
-        // "punctuation.terminator.statement"
-      ],
-      "settings": {
-        "fontStyle": "italic"
-      }
-    },
-    {
       "name": "Variables",
       "scope": [
         "punctuation.definition.variable",
