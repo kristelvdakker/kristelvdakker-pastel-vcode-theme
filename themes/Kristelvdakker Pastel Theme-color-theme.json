@@ -274,7 +274,16 @@
       }
     },
     {
-      "name": "CSS functions",
+      "name": "CSS Function",
+      "scope": [
+        "source.css entity.name.function"
+      ],
+      "settings": {
+        "foreground": "#FE357D"
+      }
+    },
+    {
+      "name": "CSS keyword",
       "scope": [
         "source.css keyword.control",
         "source.css punctuation.definition.keyword"
