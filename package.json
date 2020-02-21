@@ -3,8 +3,18 @@
     "displayName": "Kristelvdakker Pastel Theme",
     "description": "A dark theme with pastel colors",
     "version": "0.0.1",
+    "publisher": "kristelvdakker",
+    "author": {
+        "name": "Kristel van den Akker",
+        "email": "kristelvdakker@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kristelvdakker/kristelvdakker-pastel-vcode-theme"
+    },
+    "icon": "theme-kristelvdakker-pastel.png",
     "engines": {
-        "vscode": "^1.42.0"
+        "vscode": "^0.10.1"
     },
     "categories": [
         "Themes"
@@ -14,7 +24,7 @@
             {
                 "label": "Kristelvdakker Pastel Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Kristelvdakker Pastel Theme-color-theme.json"
+                "path": "./themes/kristelvdakker-pastel-theme-color-theme.json"
             }
         ]
     }
