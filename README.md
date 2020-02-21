@@ -1,13 +1,21 @@
-# README
-## This is the README for your extension "kristelvdakker-pastel"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+## Installation
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+```sh
+ext install kristelvdakker.theme-kristelvdakker-pastel
+```
 
-**Enjoy!**
+
+## Contributing
+
+1. Fork it [s-code-theme-monokai-dark-soda ](https://github.com/kristelvdakker/kristelvdakker-pastel-vcode-theme/fork)
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Commit your changes (`git commit -am 'Add some fooBar'`)
+4. Push to the branch (`git push origin feature/fooBar`)
+5. Create a new Pull Request
+
+License
+---
+
+The MIT License. Read [LICENSE](https://github.com/kristelvdakker/kristelvdakker-pastel-vcode-theme/blob/master/LICENSE) for further information.
