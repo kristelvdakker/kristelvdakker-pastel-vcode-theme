@@ -715,6 +715,24 @@
       "settings": {
         "foreground": "#FD971F"
       }
+    },
+    {
+      "name": "Logging Function",
+      "scope": [
+        "support.function.console"
+      ],
+      "settings": {
+        "foreground": "#66D9EF"
+      }
+    },
+    {
+      "name": "Logging Object",
+      "scope": [
+        "support.type.object.console"
+      ],
+      "settings": {
+        "foreground": "#FFFFFF"
+      }
     }
   ]
 }
