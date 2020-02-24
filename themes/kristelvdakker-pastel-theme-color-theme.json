@@ -696,6 +696,25 @@
       "settings": {
         "foreground": "#F8F8F2"
       }
+    },
+    {
+      "name": "JSDoc - Types",
+      "scope": [
+        "meta.brace.curly.jsdoc",
+        "entity.name.type.instance.jsdoc"
+      ],
+      "settings": {
+        "foreground": "#B2C9CE"
+      }
+    },
+    {
+      "name": "JSDoc - Variable",
+      "scope": [
+        "variable.other.jsdoc"
+      ],
+      "settings": {
+        "foreground": "#FD971F"
+      }
     }
   ]
 }
