@@ -733,6 +733,15 @@
       "settings": {
         "foreground": "#FFFFFF"
       }
+    },
+    {
+      "name": "Shell - Variable",
+      "scope": [
+        "variable.other.normal.shell"
+      ],
+      "settings": {
+        "foreground": "#66D9EF"
+      }
     }
   ]
 }
