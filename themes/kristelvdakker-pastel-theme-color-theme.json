@@ -25,7 +25,8 @@
         "punctuation.definition.variable",
         "string constant.other.placeholder",
         "meta.object-literal.key",
-        "variable.other.object.property"
+        "variable.other.object.property",
+        "variable.other.php"
       ],
       "settings": {
         "foreground": "#66D9EF"
@@ -295,7 +296,7 @@
     {
       "name": "CSS Classes",
       "scope": [
-        "source.css entity.other.attribute-name.class",
+        "source.css entity.other.attribute-name",
         "source.css punctuation.definition.entity.css",
         "source.css meta.attribute-selector.scss"
       ],
