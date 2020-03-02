@@ -280,7 +280,8 @@
       "scope": [
         "source.css entity.name.function",
         "source.css entity.other.attribute-name.attribute",
-        "source.css keyword.other.default"
+        "source.css keyword.other.default",
+        "source.css keyword.other.important"
       ],
       "settings": {
         "foreground": "#FE357D"
