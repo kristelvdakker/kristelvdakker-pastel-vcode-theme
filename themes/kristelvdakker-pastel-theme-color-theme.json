@@ -279,7 +279,8 @@
       "name": "CSS Function",
       "scope": [
         "source.css entity.name.function",
-        "source.css entity.other.attribute-name.attribute"
+        "source.css entity.other.attribute-name.attribute",
+        "source.css keyword.other.default"
       ],
       "settings": {
         "foreground": "#FE357D"
