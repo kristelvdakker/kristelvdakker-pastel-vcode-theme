@@ -267,7 +267,7 @@
       }
     },
     {
-      "name": "CSS",
+      "name": "CSS - Support",
       "scope": [
         "source.css support.function"
       ],
@@ -276,7 +276,7 @@
       }
     },
     {
-      "name": "CSS Function",
+      "name": "CSS Entity",
       "scope": [
         "source.css entity.name.function",
         "source.css entity.other.attribute-name.attribute",
