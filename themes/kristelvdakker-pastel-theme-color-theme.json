@@ -248,8 +248,7 @@
         "source.less support.type.property-name",
         "source.stylus support.type.property-name",
         "source.postcss support.type.property-name",
-        "source.css variable.scss",
-        "source.css meta.property-list entity.name.tag"
+        "source.css variable.scss"
       ],
       "settings": {
         "foreground": "#66D9EF"
@@ -279,6 +278,7 @@
       "name": "CSS Entity",
       "scope": [
         "source.css entity.name.function",
+        "source.css entity.name.tag",
         "source.css entity.other.attribute-name.attribute",
         "source.css keyword.other.default",
         "source.css keyword.other.important"
