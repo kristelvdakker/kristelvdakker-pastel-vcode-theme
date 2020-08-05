@@ -1,11 +1,8 @@
 ## Installation
 
-Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter.
-
-```sh
-ext install kristelvdakker.theme-kristelvdakker-pastel
-```
-
+1. Download this package, go to `.vscode/extensions` and unpack the zip.
+2. Launch VS Code and hit cmd+K and cmd+T right after eachother.
+3. Select `Kristelvdakker Pastel Theme`.
 
 ## Contributing
 
